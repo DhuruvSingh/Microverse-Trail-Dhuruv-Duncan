@@ -1,8 +1,12 @@
 @media query {
-  
+
 
 }
 
 #welcome-section{
   height: 100vh;
+}
+.navbar{ display: flex;
+  position:fixed;
+
 }
